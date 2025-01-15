@@ -20,5 +20,5 @@
 ---
 
 ### Как связаться со мной:
-- 📫 [Email](mailto:sem.dmitry.a@yandex.ru).
-- 💬 Telegram *@semenov_dmitry_a*.
+- 📫 [Email](mailto:sem.dmitry.a@yandex.ru)
+- 💬 Telegram *@semenov_dmitry_a*
